@@ -69,4 +69,3 @@ This project implements the classic producer-consumer problem in C++, showcasing
 
 *   Dynamic buffer size configuration for more flexible experimentation.
 *   Implementation of alternative synchronization mechanisms (e.g., condition variables) for comparison.
-*   More comprehensive error handling and logging.

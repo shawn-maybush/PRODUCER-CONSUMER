@@ -1,0 +1,57 @@
+Producer: Thread ID (TID) = 800512 | Produced 1540383426
+Consumer: Thread ID (TID) = 800517 | Consumed 1540383426
+Producer: Thread ID (TID) = 800512 | Produced 35005211
+Consumer: Thread ID (TID) = 800516 | Consumed 35005211
+Producer: Thread ID (TID) = 800512 | Produced 1726956429
+Consumer: Thread ID (TID) = 800525 | Consumed 1726956429
+Producer: Thread ID (TID) = 800512 | Produced 278722862
+Consumer: Thread ID (TID) = 800527 | Consumed 278722862
+Producer: Thread ID (TID) = 800512 | Produced 468703135
+Consumer: Thread ID (TID) = 800519 | Consumed 468703135
+Producer: Thread ID (TID) = 800512 | Produced 1315634022
+Consumer: Thread ID (TID) = 800520 | Consumed 1315634022
+Producer: Thread ID (TID) = 800512 | Produced 1125898167
+Consumer: Thread ID (TID) = 800526 | Consumed 1125898167
+Producer: Thread ID (TID) = 800512 | Produced 628175011
+Consumer: Thread ID (TID) = 800515 | Consumed 628175011
+Producer: Thread ID (TID) = 800512 | Produced 1653377373
+Consumer: Thread ID (TID) = 800518 | Consumed 1653377373
+Producer: Thread ID (TID) = 800512 | Produced 608413784
+Consumer: Thread ID (TID) = 800523 | Consumed 608413784
+Producer: Thread ID (TID) = 800512 | Produced 1973594324
+Consumer: Thread ID (TID) = 800528 | Consumed 1973594324
+Producer: Thread ID (TID) = 800512 | Produced 2038664370
+Consumer: Thread ID (TID) = 800517 | Consumed 2038664370
+Producer: Thread ID (TID) = 800512 | Produced 1424268980
+Consumer: Thread ID (TID) = 800513 | Consumed 1424268980
+Producer: Thread ID (TID) = 800512 | Produced 137806862
+Consumer: Thread ID (TID) = 800522 | Consumed 137806862
+Producer: Thread ID (TID) = 800512 | Produced 982906996
+Consumer: Thread ID (TID) = 800514 | Consumed 982906996
+Producer: Thread ID (TID) = 800512 | Produced 2084420925
+Consumer: Thread ID (TID) = 800521 | Consumed 2084420925
+Consumer: Thread ID (TID) = 800524 | Interupted
+Consumer: Thread ID (TID) = 800528 | Interupted
+Consumer: Thread ID (TID) = 800527 | Interupted
+Consumer: Thread ID (TID) = 800525 | Interupted
+Consumer: Thread ID (TID) = 800519 | Interupted
+Consumer: Thread ID (TID) = 800520 | Interupted
+Consumer: Thread ID (TID) = 800526 | Interupted
+Consumer: Thread ID (TID) = 800518 | Interupted
+Consumer: Thread ID (TID) = 800515 | Interupted
+Consumer: Thread ID (TID) = 800517 | Interupted
+Consumer: Thread ID (TID) = 800523 | Interupted
+Consumer: Thread ID (TID) = 800522 | Interupted
+Consumer: Thread ID (TID) = 800521 | Interupted
+Consumer: Thread ID (TID) = 800516 | Interupted
+Consumer: Thread ID (TID) = 800513 | Interupted
+Producer: Thread ID (TID) = 800512 | Interupted
+Consumer: Thread ID (TID) = 800514 | Interupted
+
+Sleep Time: 30 | Producers: 1 | Consumers: 16
+Total Time: 30.00 sec
+Total Items Produced: 16
+Total Items Consumed: 16
+Production rate: 0.53 items/sec
+Consumption rate: 0.53 items/sec
+Average Item Turnaround: 0.0002 sec

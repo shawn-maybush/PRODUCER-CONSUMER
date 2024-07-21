@@ -1,0 +1,3 @@
+.vscode/
+*.o
+producer_consumer

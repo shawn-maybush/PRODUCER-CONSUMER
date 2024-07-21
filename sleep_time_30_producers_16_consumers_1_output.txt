@@ -1,0 +1,60 @@
+Producer: Thread ID (TID) = 792474 | Produced 1540383426
+Producer: Thread ID (TID) = 792476 | Produced 304089172
+Producer: Thread ID (TID) = 792483 | Produced 1303455736
+Producer: Thread ID (TID) = 792486 | Produced 35005211
+Producer: Thread ID (TID) = 792472 | Produced 861021530
+Consumer: Thread ID (TID) = 792487 | Consumed 1540383426
+Producer: Thread ID (TID) = 792478 | Produced 278722862
+Consumer: Thread ID (TID) = 792487 | Consumed 304089172
+Producer: Thread ID (TID) = 792481 | Produced 233665123
+Consumer: Thread ID (TID) = 792487 | Consumed 1303455736
+Producer: Thread ID (TID) = 792485 | Produced 468703135
+Consumer: Thread ID (TID) = 792487 | Consumed 35005211
+Producer: Thread ID (TID) = 792473 | Produced 1101513929
+Consumer: Thread ID (TID) = 792487 | Consumed 861021530
+Producer: Thread ID (TID) = 792477 | Produced 1801979802
+Consumer: Thread ID (TID) = 792487 | Consumed 278722862
+Producer: Thread ID (TID) = 792482 | Produced 1315634022
+Consumer: Thread ID (TID) = 792487 | Consumed 233665123
+Producer: Thread ID (TID) = 792476 | Produced 1125898167
+Consumer: Thread ID (TID) = 792487 | Consumed 468703135
+Producer: Thread ID (TID) = 792486 | Produced 1059961393
+Consumer: Thread ID (TID) = 792487 | Consumed 1101513929
+Producer: Thread ID (TID) = 792475 | Produced 2089018456
+Consumer: Thread ID (TID) = 792487 | Consumed 1801979802
+Producer: Thread ID (TID) = 792484 | Produced 628175011
+Consumer: Thread ID (TID) = 792487 | Consumed 1315634022
+Producer: Thread ID (TID) = 792471 | Produced 1656478042
+Consumer: Thread ID (TID) = 792487 | Consumed 1125898167
+Producer: Thread ID (TID) = 792472 | Produced 1131176229
+Consumer: Thread ID (TID) = 792487 | Consumed 1059961393
+Producer: Thread ID (TID) = 792474 | Produced 1653377373
+Consumer: Thread ID (TID) = 792487 | Consumed 2089018456
+Producer: Thread ID (TID) = 792479 | Produced 859484421
+Consumer: Thread ID (TID) = 792487 | Consumed 628175011
+Producer: Thread ID (TID) = 792480 | Produced 1914544919
+Producer: Thread ID (TID) = 792478 | Interupted
+Producer: Thread ID (TID) = 792475 | Interupted
+Producer: Thread ID (TID) = 792485 | Interupted
+Producer: Thread ID (TID) = 792481 | Interupted
+Producer: Thread ID (TID) = 792473 | Interupted
+Producer: Thread ID (TID) = 792477 | Interupted
+Producer: Thread ID (TID) = 792482 | Interupted
+Producer: Thread ID (TID) = 792476 | Interupted
+Producer: Thread ID (TID) = 792486 | Interupted
+Producer: Thread ID (TID) = 792484 | Interupted
+Producer: Thread ID (TID) = 792471 | Interupted
+Producer: Thread ID (TID) = 792472 | Interupted
+Producer: Thread ID (TID) = 792474 | Interupted
+Producer: Thread ID (TID) = 792483 | Interupted
+Producer: Thread ID (TID) = 792479 | Interupted
+Consumer: Thread ID (TID) = 792487 | Interupted
+Producer: Thread ID (TID) = 792480 | Interupted
+
+Sleep Time: 30 | Producers: 16 | Consumers: 1
+Total Time: 30.00 sec
+Total Items Produced: 20
+Total Items Consumed: 15
+Production rate: 0.67 items/sec
+Consumption rate: 0.50 items/sec
+Average Item Turnaround: 13.3348 sec

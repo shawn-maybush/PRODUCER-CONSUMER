@@ -1,0 +1,44 @@
+Producer: Thread ID (TID) = 790444 | Produced 424238335
+Producer: Thread ID (TID) = 790442 | Produced 1649760492
+Producer: Thread ID (TID) = 790444 | Produced 1189641421
+Producer: Thread ID (TID) = 790443 | Produced 1350490027
+Producer: Thread ID (TID) = 790443 | Produced 1102520059
+Consumer: Thread ID (TID) = 790446 | Consumed 424238335
+Producer: Thread ID (TID) = 790445 | Produced 1967513926
+Consumer: Thread ID (TID) = 790446 | Consumed 1649760492
+Producer: Thread ID (TID) = 790444 | Produced 1540383426
+Consumer: Thread ID (TID) = 790446 | Consumed 1189641421
+Producer: Thread ID (TID) = 790444 | Produced 294702567
+Consumer: Thread ID (TID) = 790446 | Consumed 1350490027
+Producer: Thread ID (TID) = 790442 | Produced 336465782
+Consumer: Thread ID (TID) = 790446 | Consumed 1102520059
+Producer: Thread ID (TID) = 790443 | Produced 861021530
+Consumer: Thread ID (TID) = 790446 | Consumed 1967513926
+Producer: Thread ID (TID) = 790445 | Produced 278722862
+Consumer: Thread ID (TID) = 790446 | Consumed 1540383426
+Producer: Thread ID (TID) = 790444 | Produced 468703135
+Consumer: Thread ID (TID) = 790446 | Consumed 294702567
+Producer: Thread ID (TID) = 790444 | Produced 1131176229
+Consumer: Thread ID (TID) = 790446 | Consumed 336465782
+Producer: Thread ID (TID) = 790443 | Produced 635723058
+Consumer: Thread ID (TID) = 790446 | Consumed 861021530
+Producer: Thread ID (TID) = 790445 | Produced 1059961393
+Consumer: Thread ID (TID) = 790446 | Consumed 278722862
+Producer: Thread ID (TID) = 790442 | Produced 1101513929
+Consumer: Thread ID (TID) = 790446 | Consumed 468703135
+Producer: Thread ID (TID) = 790444 | Produced 608413784
+Consumer: Thread ID (TID) = 790446 | Consumed 1131176229
+Producer: Thread ID (TID) = 790442 | Produced 2038664370
+Producer: Thread ID (TID) = 790442 | Interupted
+Producer: Thread ID (TID) = 790443 | Interupted
+Producer: Thread ID (TID) = 790444 | Interupted
+Producer: Thread ID (TID) = 790445 | Interupted
+Consumer: Thread ID (TID) = 790446 | Interupted
+
+Sleep Time: 30 | Producers: 4 | Consumers: 1
+Total Time: 30.00 sec
+Total Items Produced: 18
+Total Items Consumed: 13
+Production rate: 0.60 items/sec
+Consumption rate: 0.43 items/sec
+Average Item Turnaround: 10.0011 sec

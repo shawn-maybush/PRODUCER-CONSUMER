@@ -1,0 +1,77 @@
+Producer: Thread ID (TID) = 803097 | Produced 424238335
+Consumer: Thread ID (TID) = 803100 | Consumed 424238335
+Producer: Thread ID (TID) = 803097 | Produced 596516649
+Consumer: Thread ID (TID) = 803098 | Consumed 596516649
+Producer: Thread ID (TID) = 803097 | Produced 1350490027
+Consumer: Thread ID (TID) = 803101 | Consumed 1350490027
+Producer: Thread ID (TID) = 803097 | Produced 1102520059
+Consumer: Thread ID (TID) = 803099 | Consumed 1102520059
+Producer: Thread ID (TID) = 803097 | Produced 1540383426
+Consumer: Thread ID (TID) = 803100 | Consumed 1540383426
+Producer: Thread ID (TID) = 803097 | Produced 35005211
+Consumer: Thread ID (TID) = 803099 | Consumed 35005211
+Producer: Thread ID (TID) = 803097 | Produced 1726956429
+Consumer: Thread ID (TID) = 803098 | Consumed 1726956429
+Producer: Thread ID (TID) = 803097 | Produced 278722862
+Consumer: Thread ID (TID) = 803100 | Consumed 278722862
+Producer: Thread ID (TID) = 803097 | Produced 468703135
+Consumer: Thread ID (TID) = 803101 | Consumed 468703135
+Producer: Thread ID (TID) = 803097 | Produced 1315634022
+Consumer: Thread ID (TID) = 803099 | Consumed 1315634022
+Producer: Thread ID (TID) = 803097 | Produced 1125898167
+Consumer: Thread ID (TID) = 803098 | Consumed 1125898167
+Producer: Thread ID (TID) = 803097 | Produced 628175011
+Consumer: Thread ID (TID) = 803100 | Consumed 628175011
+Producer: Thread ID (TID) = 803097 | Produced 1653377373
+Consumer: Thread ID (TID) = 803101 | Consumed 1653377373
+Producer: Thread ID (TID) = 803097 | Produced 608413784
+Consumer: Thread ID (TID) = 803099 | Consumed 608413784
+Producer: Thread ID (TID) = 803097 | Produced 1973594324
+Consumer: Thread ID (TID) = 803098 | Consumed 1973594324
+Producer: Thread ID (TID) = 803097 | Produced 1129566413
+Consumer: Thread ID (TID) = 803100 | Consumed 1129566413
+Producer: Thread ID (TID) = 803097 | Produced 1424268980
+Consumer: Thread ID (TID) = 803098 | Consumed 1424268980
+Producer: Thread ID (TID) = 803097 | Produced 137806862
+Consumer: Thread ID (TID) = 803101 | Consumed 137806862
+Producer: Thread ID (TID) = 803097 | Produced 135497281
+Consumer: Thread ID (TID) = 803099 | Consumed 135497281
+Producer: Thread ID (TID) = 803097 | Produced 2084420925
+Consumer: Thread ID (TID) = 803100 | Consumed 2084420925
+Producer: Thread ID (TID) = 803097 | Produced 1159126505
+Consumer: Thread ID (TID) = 803101 | Consumed 1159126505
+Producer: Thread ID (TID) = 803097 | Produced 1100661313
+Consumer: Thread ID (TID) = 803100 | Consumed 1100661313
+Producer: Thread ID (TID) = 803097 | Produced 84353895
+Consumer: Thread ID (TID) = 803098 | Consumed 84353895
+Producer: Thread ID (TID) = 803097 | Produced 1998898814
+Consumer: Thread ID (TID) = 803099 | Consumed 1998898814
+Producer: Thread ID (TID) = 803097 | Produced 1585990364
+Consumer: Thread ID (TID) = 803098 | Consumed 1585990364
+Producer: Thread ID (TID) = 803097 | Produced 1477171087
+Consumer: Thread ID (TID) = 803101 | Consumed 1477171087
+Producer: Thread ID (TID) = 803097 | Produced 1889947178
+Consumer: Thread ID (TID) = 803100 | Consumed 1889947178
+Producer: Thread ID (TID) = 803097 | Produced 491705403
+Consumer: Thread ID (TID) = 803098 | Consumed 491705403
+Producer: Thread ID (TID) = 803097 | Produced 1474612399
+Consumer: Thread ID (TID) = 803099 | Consumed 1474612399
+Producer: Thread ID (TID) = 803097 | Produced 1411549676
+Consumer: Thread ID (TID) = 803101 | Consumed 1411549676
+Producer: Thread ID (TID) = 803097 | Produced 1984210012
+Consumer: Thread ID (TID) = 803100 | Consumed 1984210012
+Producer: Thread ID (TID) = 803097 | Produced 1469348094
+Consumer: Thread ID (TID) = 803099 | Consumed 1469348094
+Consumer: Thread ID (TID) = 803101 | Interupted
+Consumer: Thread ID (TID) = 803099 | Interupted
+Consumer: Thread ID (TID) = 803100 | Interupted
+Consumer: Thread ID (TID) = 803098 | Interupted
+Producer: Thread ID (TID) = 803097 | Interupted
+
+Sleep Time: 60 | Producers: 1 | Consumers: 4
+Total Time: 60.00 sec
+Total Items Produced: 32
+Total Items Consumed: 32
+Production rate: 0.53 items/sec
+Consumption rate: 0.53 items/sec
+Average Item Turnaround: 0.0002 sec

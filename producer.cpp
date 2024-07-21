@@ -1,6 +1,4 @@
 #include "producer.h"
-#include "buffer.h" 
-#include "globals.h"
 #include <sys/syscall.h>
 #include <iostream>
 #include <unistd.h>
